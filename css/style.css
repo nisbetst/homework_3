@@ -4,6 +4,7 @@ html {
 }
 
 body{
+  background-color: white;
   margin-bottom: 100px;
 }
 
@@ -69,7 +70,8 @@ p{
 }
 
 body.index{
-  background: url(https://raw.githubusercontent.com/nisbetst/homework_3/master/images/background.jpg)no-repeat center center fixed;
+
+  background-image: url(https://raw.githubusercontent.com/nisbetst/homework_3/master/images/background.jpg)no-repeat center center fixed;
 }
 
 .projects{
